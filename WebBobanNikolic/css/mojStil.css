@@ -1,0 +1,43 @@
+body {
+    background-color: #ffe0b3;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form, .container-fluid {
+    border-color: #a2a942;
+    background-color: #b3b3b3;
+}
+
+.navbar-default .navbar-brand {
+    color: #1a1a1a;
+}
+
+.navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #000080;
+    background-color: transparent;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+    color: #1a1a1a;
+}
+
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #000080;
+    font-weight: bold;
+    background-color: #737373;
+}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #555;
+    background-color: #e7e7e7;
+}
+
+
+.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
+    font-weight: 400;
+    line-height: 1;
+    color: #1a1a1a;
+}
+
